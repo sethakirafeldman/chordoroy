@@ -1,4 +1,4 @@
-const main = document.getElementById("main");
+const main = document.getElementsByTagName("main")[0];
 
 const major = ["I", "ii", "iii", "IV", "V", "vi", "vii*"];
 
